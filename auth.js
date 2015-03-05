@@ -51,7 +51,7 @@ $(document).ready(function() {
 					different: {
                         field: 'lastname',
                         message: 'Password is different of lastname.'
-                    }
+                    },
 					identical: {
                         field: 'cpassword',
                         message: 'Password do not match.'
